@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Hi There, Welcome to Om's Page</h1>
+      <h2>Current Branch</h2>
     </>
   )
 }
