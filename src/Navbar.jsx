@@ -3,7 +3,8 @@ import React from 'react'
 function Navbar() {
   return (
       <div>
-          <ul>
+      <ul>
+        <li> Logo here</li>
               <li>Home</li>
               <li>About</li>
           </ul>
